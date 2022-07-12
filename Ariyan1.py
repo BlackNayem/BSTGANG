@@ -398,7 +398,7 @@ logo = """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••• 
 \x1b[1;90m[+] 𝗔𝗨𝗧𝗛𝗢𝗥     :   ARIYAN ( BST )      
 \x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :    SI Ariyan 
-\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   SILENT-786
+\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   BLACK-786
 \x1b[1;98m[+] FROM        :   Bangladesh , Dhaka, Gopalgonj   
 \x1b[1;93m[+] 𝗧𝗘𝗔𝗠        :   \33[1;42  BLACK SPAMMING TEAM \33[0m
 \x1b[1;94m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡     :\x1b[1;97m  1.0.2    \x1b[1;97m          
@@ -430,7 +430,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			
+			os.system("xdg-open   https://www.facebook.com/siariyan80)
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    CHECKING APPROVAL ")
@@ -928,7 +928,7 @@ class Main:
 				print("\033[1;37m")
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
-			exit("\n\n \033[1;37m>>[PROCESS COMPLETE... \n\033[0;92m >>[THANKS FOR USING SILENT-786 TOOL...")
+			exit("\n\n \033[1;37m>>[PROCESS COMPLETE... \n\033[0;92m >>[THANKS FOR USING ARIYAN TOOL...")
 		except Exception as e:exit(str(e))
  
 	def api(self, uid, pwx):
