@@ -430,7 +430,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/SILENTHACKER0001 ")
+			os.system("xdg-open https://www.facebook.com/si.ariyan.7528)
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    CHECKING APPROVAL ")
@@ -438,7 +438,7 @@ class Main:
 			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO *SILENT_HACKER*  TOOLS")
+			print("\033[1;32m WELCOME TO * BLACK SPAMMING*  TOOLS")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
